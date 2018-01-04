@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SettingsBase" parent="@android:style/Theme.Material.Settings">
+        <item name="android:navigationBarColor">#ff5baa6d</item>
+		<item name="android:background">@drawable/</item>
+    </style>
+    <style name="Theme.ActionBar" parent="@android:style/Widget.Material.Light.ActionBar.Solid">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:elevation">0.0dip</item>
+        <item name="android:contentInsetStart">16.0dip</item>
+    </style>
+    <style name="Theme.ActionBar.SubSettings" parent="@android:style/Widget.Material.Light.ActionBar.Solid">
+        <item name="android:elevation">4.0dip</item>
+        <item name="android:contentInsetStart">72.0dip</item>
+    </style>
+</resources>
