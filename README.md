@@ -1,6 +1,4 @@
-# Substratum Theme Template
-
-The official theme template from the team, for every prospective/current themer who wishes to join the Substratum game!
+# Substratum Erumic UI Settings
 
 There are six types of Substratum as of this date (18/10/17)
   - Substratum OMS (3/7) (Marshmallow) [Marshmallow has been deprecated since 510, but it is still available]
@@ -169,7 +167,5 @@ What this means is that themes can ensure their themes ONLY function with our fu
 
 If you would like to enable this feature (only allow your theme to be used with official substratum builds), all you have to do is to flip `JNI_TRUE` to `JNI_FALSE` [here](app/src/main/jni/LoadingProcess.c#L18)!
 
-### Now what?
-Nothing. Now you're set to publish your theme!
-
-## Written with ❤ from themers and developers alike!
+### For Official Substratum Information
+Please visit https://github.com/substratum
